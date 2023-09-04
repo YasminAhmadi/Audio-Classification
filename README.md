@@ -1,6 +1,5 @@
 # MLproject2
 methods for classification:
-Use
 - MLP
 - ELM
 - AutoEncoder
